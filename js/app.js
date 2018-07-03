@@ -39,7 +39,7 @@ $(function () {
                     </div>
                     <div class="card-footer bg-transparent border-0">
                         <small class="text-muted">价格: ${card.price} EOS</small>
-                        <button class="btn btn-outline-secondary btn-sm float-right" data-toggle="tooltip" data-placement="top" data-html="true" title="<img class='img-thumbnail' style='height: 130px;' src='./assets/qrcodes/${card.account}.png' />">微信联系</button>
+                        <button class="btn btn-outline-secondary btn-sm float-right" data-toggle="tooltip" data-placement="top" data-html="true" title="<img class='img-thumbnail' style='height: 250px;' src='./assets/${card.account}.jpeg' />">微信联系</button>
                     </div>
                 </div>
             </div>
