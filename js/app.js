@@ -1,7 +1,7 @@
 const cards = [
     { account: "zoooomzoooom", price: "10", tags: ['zoomzoom'], badge: 'NEW' },
     { account: "zoooomzoooom", price: "10", tags: ['zoomzoom'], badge: 'PREMIUM' },
-    { account: "zzzzzzkkkkkk", price: "10", tags: ['张凯', '6个z6个k'] },
+    { account: "zzzzzzkkkkkk", price: "10", tags: ['张凯', '6个z 6个k'] },
     { account: "geeeeeeeeeek", price: "10" },
     { account: "geeeeeeeeeek", price: "10" },
     { account: "geeeeeeeeeek", price: "10" },
