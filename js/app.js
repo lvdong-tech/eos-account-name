@@ -28,10 +28,10 @@ $(function () {
         html += `
             <div class="col-md-6 col-lg-4 col-xl-3 mt-2 mb-4">
                 <div class="card h-100">
-                    <div class="card-header">${card.account} <span class="badge badge-warning">${card.badge ? card.badge : ''}</span></div>
+                    <!-- <div class="card-header">${card.account} <span class="badge badge-warning">${card.badge ? card.badge : ''}</span></div> -->
                     <div class="card-body">
+                        <h5 class="card-title">${card.account} <span class="badge badge-warning">${card.badge ? card.badge : ''}</span></h5>
                         <p class="card-text">${tags}</p>
-                        <!-- <h5 class="card-title">Card title</h5> -->
                         <!-- <p class="card-text">description</p> -->
                         <!-- <p class="card-text">
                             <small class="text-muted">Last updated 3 mins ago</small>
